@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>&lt;model-viewer&gt; example</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="demo.styles.css">
+    
+  </head> 
+<body>
+  <div id="card">
+    <model-viewer 
+                  src="https://varch.s3.amazonaws.com/varch-test.glb" 
+                  ar="" 
+                  ar-modes="ar_preferred webxr scene-viewer quick-look fallback" 
+                  ar-scale="auto" 
+                  magic-leap="" 
+                  camera-controls="" 
+                  alt="A virtual arch for BC Arch Day" 
+                  ios-src="../shared-assets/models/Astronaut.usdz" data-js-focus-visible="">
+                    
+    </model-viewer>
+    
+  </div>
+
+  <footer>
+    <span>Welcome to the Berkeley Carroll Virtual Arch. </span>
+    <span>View this from your phone to get under the arch in the comfort of your home✌️</span>
+  </footer>
+  
+  <!-- 💁 Include both scripts below to support all browsers! -->
+
+  <!-- Loads <model-viewer> for modern browsers: -->
+  <script type="module"
+      src="https://unpkg.com/@google/model-viewer@v0.9.0/dist/model-viewer.js">
+  </script>
+
+  <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <script nomodule
+      src="https://unpkg.com/@google/model-viewer@v0.9.0/dist/model-viewer-legacy.js">
+  </script>
+</body>
+</html>
+
