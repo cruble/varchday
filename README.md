@@ -1,5 +1,5 @@
 # varchday
-A virtual arch for elementary school kids to celebrate the end of their school year at hom. There are so many rituals, traditions, and rites of passage that couldn't happen this year.  
+A virtual arch for elementary school kids to celebrate the end of their school year at hom. There are so many rituals, traditions, and rites of passage that couldn't happen this year.  Live site is [here](https://cruble.github.io/varchday). Best viewed on your mobile device. 
 
 Since kids can't get to the arch. This project was a way of bringing the arch to them. 
 
@@ -22,5 +22,5 @@ The low-poly models were created in Blender 2.8. The arch decorations are flat s
 
 
 
-![Archday Post-Covid](./assets/elsie_varch.jpg =250x)
+![Archday Post-Covid](./assets/elsie_varch.jpg =250x500)
 
