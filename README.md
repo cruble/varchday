@@ -18,9 +18,9 @@ I included my models in this repository, but they are hosted on a public URL on 
 The low-poly models were created in Blender 2.8. The arch decorations are flat surfaces textured with a single color.  
 
 
-![Archday Pre-Covid](./assets/charles_archday.jpg)
+![Archday Pre-Covid](./assets/charles_archday.jpg =250x)
 
 
 
-![Archday Post-Covid](./assets/charles_archday.jpg)
+![Archday Post-Covid](./assets/elsie_varch.jpg =250x)
 
