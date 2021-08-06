@@ -1,11 +1,11 @@
 # varchday
-A virtual arch for elementary school kids to celebrate the end of their school year at home. There are so many rituals, traditions, and rites of passage that couldn't happen this year.  Live site is [here](https://cruble.github.io/varchday). Best viewed on your mobile device. 
+A virtual arch for elementary school kids to celebrate the end of their school year at home. There are so many rituals, traditions, and rites of passage that couldn't happen this year.  Live site is [here](https://varchday.glitch.me). Best viewed on your mobile device. 
 
 Since kids can't get to the arch. This project was a way of bringing the arch to them. But this project is also a template for anyone who wants to bring in a 3D model into a simple, clean, web-based 3D viewer with AR capabilities. Even though I didn't use animations here, the component supports it. 
 
 # model-viewer
 
-This project relies heavily on Google's [model-viewer](https://github.com/google/model-viewer) web component.  Much of the styling is from their [example](https://model-viewer.glitch.me/). The most comprehensive resource for the component can be found at [modelviewer.dev](https://modelviewer.dev/).   
+This project relies heavily on Google's [model-viewer](https://github.com/google/model-viewer) web component.  This is a remix of this [example](https://model-viewer.glitch.me/) on glitch.me. The most comprehensive resource for the component can be found at [modelviewer.dev](https://modelviewer.dev/).   
 
 # models 
 
